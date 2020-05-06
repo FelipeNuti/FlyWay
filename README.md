@@ -1,4 +1,4 @@
-# FlyWay - Drone-Delivery-Viability
+# FlyWay
 NYAS 'Combating COVID-19' Challenge
 
 ## Brief statement of contents

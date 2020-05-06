@@ -4,9 +4,9 @@ NYAS 'Combating COVID-19' Challenge
 ## Brief statement of contents
 
 ### Infection Prevention
-infection.py: file with the functions of the random experiment model
-plot_infection.py: file with functions to make plots and calculations using the functions in infections.py
-Images: contains the images present on the 1st section of our deliverable
+infection.py: file with the functions of the random experiment model\n
+plot_infection.py: file with functions to make plots and calculations using the functions in infections.py\n
+Images: contains the images present on the 1st section of our deliverable\n
 
 ### Business Plan
 drone_delivery_model.py: file with financial projection model
